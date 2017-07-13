@@ -211,6 +211,7 @@ section {
 
 .ham-menu ul {
 	list-style-type: none;
+	padding: 0;
 }
 
 .ham-menu .login, .ham-menu .cart {
