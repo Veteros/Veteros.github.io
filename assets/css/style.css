@@ -266,7 +266,7 @@ section {
 	
 }
 
-@media screen and (max-width: 965px){
+@media screen and (max-width: 998px){
 	.navigation > .foruser, .menu {
 		display: none;
 	}
