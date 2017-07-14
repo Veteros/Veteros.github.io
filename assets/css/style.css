@@ -7,6 +7,11 @@ body {
 	position: relative;
 	height: 80px;
 	background-color: rgba(255,255,255,0.7);
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
 	padding: 0 120px;
 }
 
@@ -116,6 +121,9 @@ body {
 }
 
 .backrgound {
+	max-width: 1200px;
+	margin: 0 auto;
+	position: relative;
 	height: 514px;
 	background-image: url(../images/back.png);
 	background-size: cover;
